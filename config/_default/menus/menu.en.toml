@@ -1,0 +1,10 @@
+#  menu items
+[[main]]
+  name = "Docs"
+  weight = 2
+  url = "docs/"
+
+[[main]]
+  name = "Pika Home"
+  weight = 3
+  url = "https://pika-os.com"
